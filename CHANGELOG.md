@@ -4,6 +4,22 @@ All notable changes to **RustTube** (Windows 11 64-bit Edition) are documented i
 
 ---
 
+## [v1.3.7] — 2026-11-26
+
+### 🇻🇳 Tiếng Việt
+- **Âm thanh Studio Opus `251`/`774` (`160–256kbps`):** Nâng cấp bộ chọn luồng âm thanh lên chuẩn Opus dải tần đầy đủ `20kHz` (thay cho `AAC 128kbps` cũ) kết hợp mở khoá bitrate cao nhất qua phiên đăng nhập và bỏ qua bộ ép giảm âm lượng `-14 LUFS`.
+- **Đồng bộ tự động 2 chiều thời gian thực với YouTube:** Xem video, tua/xem dở, bấm Like (`+1` tức thì), Đăng ký kênh và lưu Xem sau (`WL`) đều tự đồng bộ ngầm 2 chiều với tài khoản Google/YouTube mà không cần bấm thủ công.
+- **Nút Chuông thông báo khi Đăng ký & Thông báo Video mới (3 phút/lần):** Bổ sung menu chuông (`🔔 Tất cả` / `🔉 Dành riêng cho bạn` / `🔕 Tắt` / `Huỷ đăng ký`), hộp thư thông báo `🔔` trên Header, thẻ báo nổi trong App và thông báo hệ thống Windows 11.
+- **Tuỳ chỉnh trực tiếp Thanh điều hướng (Sidebar) trong Cài đặt:** Cho phép người dùng tự kéo chỉnh Chiều rộng (`46px–80px`), Cỡ chữ (`9.5px–13px`), Cỡ Icon, Nhãn gọn hoặc chế độ Chỉ hiện Icon theo ý thích.
+
+### 🇬🇧 English
+- **Studio Opus 251/774 Audio Engine (160–256kbps):** Prioritizes full-range 20kHz Opus streams over 128kbps AAC with zero `-14 LUFS` loudness throttling.
+- **Seamless Real-Time 2-Way YouTube Sync:** Watch history & resume timestamps (`videostats`), Likes (with instant `+1` counter), Subscriptions, and Watch Later (`WL`) automatically sync in both directions.
+- **Subscription Notification Bell & Live New-Upload Alerts:** Interactive YouTube-style bell dropdown (`All` / `Personalized` / `None` / `Unsubscribe`), Header Notification Center (`🔔`), and native Windows 11 alerts.
+- **Live Customizable Sidebar in Settings:** Adjust Sidebar rail width, font size, icon size, compact labels, or icon-only mode in real time.
+
+---
+
 ## [v1.3.6] — 2026-11-26
 
 ### 🇻🇳 Tiếng Việt
