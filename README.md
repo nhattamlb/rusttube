@@ -5,12 +5,12 @@
 **Ứng dụng xem YouTube & nghe nhạc nền siêu mượt dành riêng cho Windows 11 (64-bit)**  
 *Ultra-Smooth YouTube Desktop Client with Liquid Glass UI — Exclusively for Windows 11 (64-bit)*
 
-[![Release](https://img.shields.io/badge/Release-v1.3.5-f43f5e?style=for-the-badge)](https://github.com/nhattamlb/rusttube/releases/latest)
+[![Release](https://img.shields.io/badge/Release-v1.3.6-f43f5e?style=for-the-badge)](https://github.com/nhattamlb/rusttube/releases/latest)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2011%20(64--bit)-0ea5e9?style=for-the-badge&logo=windows11&logoColor=white)](https://github.com/nhattamlb/rusttube/releases/latest)
 [![Engine](https://img.shields.io/badge/Engine-Rust%20%2B%20Tauri%202-ea580c?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/nhattamlb/rusttube)
 [![License](https://img.shields.io/badge/License-Proprietary%20Freeware-10b981?style=for-the-badge)](./LICENSE)
 
-**[🇻🇳 Tiếng Việt](#-tiếng-việt) • [🇬🇧 English](#-english) • [📥 Tải xuống / Download](https://github.com/nhattamlb/rusttube/releases/latest/download/RustTube_1.3.5_x64-setup.exe) • [📋 Changelog](./CHANGELOG.md) • [⚖️ Điều khoản / Terms](./TERMS.md)**
+**[🇻🇳 Tiếng Việt](#-tiếng-việt) • [🇬🇧 English](#-english) • [📥 Tải xuống / Download](https://github.com/nhattamlb/rusttube/releases/latest/download/RustTube_1.3.6_x64-setup.exe) • [📋 Changelog](./CHANGELOG.md) • [⚖️ Điều khoản / Terms](./TERMS.md)**
 
 </div>
 
@@ -30,12 +30,12 @@
 
 ## 🇻🇳 Tiếng Việt
 
-### 📥 Tải xuống trực tiếp (Phiên bản mới nhất `v1.3.5`)
+### 📥 Tải xuống trực tiếp (Phiên bản mới nhất `v1.3.6`)
 
 > [!IMPORTANT]
 > **Yêu cầu hệ điều hành:** RustTube được thiết kế và tối ưu giải mã phần cứng **chỉ dành riêng cho Windows 11 (64-bit)**. Các hệ điều hành thấp hơn (Windows 10/8.1/7, Windows 32-bit) không được hỗ trợ.
 
-- ⬇️ **[Tải bộ cài đặt trực tiếp: `RustTube_1.3.5_x64-setup.exe` (28 MB)](https://github.com/nhattamlb/rusttube/releases/latest/download/RustTube_1.3.5_x64-setup.exe)**
+- ⬇️ **[Tải bộ cài đặt trực tiếp: `RustTube_1.3.6_x64-setup.exe` (28 MB)](https://github.com/nhattamlb/rusttube/releases/latest/download/RustTube_1.3.6_x64-setup.exe)**
 - 📦 **[Xem toàn bộ trang Phát hành (GitHub Releases)](https://github.com/nhattamlb/rusttube/releases/latest)** *(Bao gồm tệp chữ ký số `.sig`, `latest.json` và bảng mã băm `SHA256SUMS`)*
 
 ---
@@ -50,12 +50,12 @@ Vì **RustTube** là phần mềm độc lập phát hành miễn phí cho cộn
 
 **Xác minh tính toàn vẹn tệp tin (`SHA-256 Checksum`):**
 ```text
-Tệp tin : RustTube_1.3.5_x64-setup.exe
-SHA-256 : 19a2848a752e146b0a02a99abdad72308833f4a5ba765df5dbe44a0ed75399c4
+Tệp tin : RustTube_1.3.6_x64-setup.exe
+SHA-256 : ebbf9ded6018e9097d35b6e23c50b494f19b995e793c7b0953b3556b5f5e7732
 ```
-Bạn có thể tự kiểm tra bằng **PowerShell** hoặc đối chiếu trực tiếp mã băm trên **[VirusTotal (Tra cứu SHA-256)](https://www.virustotal.com/gui/file/19a2848a752e146b0a02a99abdad72308833f4a5ba765df5dbe44a0ed75399c4)**:
+Bạn có thể tự kiểm tra bằng **PowerShell** hoặc đối chiếu trực tiếp mã băm trên **[VirusTotal (Tra cứu SHA-256)](https://www.virustotal.com/gui/file/ebbf9ded6018e9097d35b6e23c50b494f19b995e793c7b0953b3556b5f5e7732)**:
 ```powershell
-Get-FileHash .\RustTube_1.3.5_x64-setup.exe -Algorithm SHA256
+Get-FileHash .\RustTube_1.3.6_x64-setup.exe -Algorithm SHA256
 ```
 > *Lưu ý về trình diệt virus (False Positive):* Bộ cài tích hợp sẵn công cụ dòng lệnh mã nguồn mở `yt-dlp` và tự tải `FFmpeg` để phục vụ chế độ Offline MP4/MP3, nên một số phần mềm diệt virus bên thứ ba quá nhạy có thể cảnh báo nhầm (False Positive). Bạn luôn có thể đối chiếu mã `SHA-256` ở trên với tệp `SHA256SUMS` đính kèm tại mục [Releases](https://github.com/nhattamlb/rusttube/releases/latest) để đảm bảo tệp nguyên bản 100%.
 
@@ -86,12 +86,12 @@ Kho lưu trữ công khai `nhattamlb/rusttube` là **Cổng phân phối Bản c
 
 ## 🇬🇧 English
 
-### 📥 Direct Download (Latest Release `v1.3.5`)
+### 📥 Direct Download (Latest Release `v1.3.6`)
 
 > [!IMPORTANT]
 > **System Requirement:** RustTube is engineered and hardware-tuned **exclusively for Windows 11 (64-bit)**. Legacy versions (Windows 10/8.1/7 or 32-bit OS) are not supported.
 
-- ⬇️ **[Direct Installer Download: `RustTube_1.3.5_x64-setup.exe` (28 MB)](https://github.com/nhattamlb/rusttube/releases/latest/download/RustTube_1.3.5_x64-setup.exe)**
+- ⬇️ **[Direct Installer Download: `RustTube_1.3.6_x64-setup.exe` (28 MB)](https://github.com/nhattamlb/rusttube/releases/latest/download/RustTube_1.3.6_x64-setup.exe)**
 - 📦 **[Browse GitHub Releases](https://github.com/nhattamlb/rusttube/releases/latest)** *(Includes Ed25519 `.sig` signature, `latest.json`, and `SHA256SUMS`)*
 
 ---
@@ -104,14 +104,14 @@ Because **RustTube** is an independently published freeware desktop client (with
 2. Click **Run anyway** to complete the fast per-user installation (no Administrator privileges required).
 3. All subsequent updates are cryptographically verified via **Ed25519** digital signatures.
 
-**SHA-256 Checksum (`v1.3.5`):**
+**SHA-256 Checksum (`v1.3.6`):**
 ```text
-File    : RustTube_1.3.5_x64-setup.exe
-SHA-256 : 19a2848a752e146b0a02a99abdad72308833f4a5ba765df5dbe44a0ed75399c4
+File    : RustTube_1.3.6_x64-setup.exe
+SHA-256 : ebbf9ded6018e9097d35b6e23c50b494f19b995e793c7b0953b3556b5f5e7732
 ```
-Verify locally in PowerShell or inspect the hash directly on **[VirusTotal (SHA-256 Lookup)](https://www.virustotal.com/gui/file/19a2848a752e146b0a02a99abdad72308833f4a5ba765df5dbe44a0ed75399c4)**:
+Verify locally in PowerShell or inspect the hash directly on **[VirusTotal (SHA-256 Lookup)](https://www.virustotal.com/gui/file/ebbf9ded6018e9097d35b6e23c50b494f19b995e793c7b0953b3556b5f5e7732)**:
 ```powershell
-Get-FileHash .\RustTube_1.3.5_x64-setup.exe -Algorithm SHA256
+Get-FileHash .\RustTube_1.3.6_x64-setup.exe -Algorithm SHA256
 ```
 > *Antivirus Note (False Positives):* Because the installer bundles the open-source `yt-dlp` binary and bootstraps `FFmpeg` for MP4/MP3 offline media extraction, heuristic scanners on certain third-party antivirus suites may occasionally flag a false positive. Always verify the `SHA-256` checksum above against `SHA256SUMS` on the [Releases](https://github.com/nhattamlb/rusttube/releases/latest) page to confirm 100% binary authenticity.
 

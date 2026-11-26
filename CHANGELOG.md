@@ -4,6 +4,18 @@ All notable changes to **RustTube** (Windows 11 64-bit Edition) are documented i
 
 ---
 
+## [v1.3.6] — 2026-11-26
+
+### 🇻🇳 Tiếng Việt
+- **Đồng bộ trực tiếp dữ liệu Tài khoản Google / YouTube (`SAPISIDHASH`):** Ngay sau khi đăng nhập trong App, RustTube tự động đồng bộ **Tên & Ảnh đại diện tài khoản thật**, toàn bộ **Kênh đã đăng ký**, **Lịch sử xem trên điện thoại/web (kèm đúng mốc phút giây đang xem dở)**, **Video đã thích** và **Đề xuất Trang chủ chính chủ (`FEwhat_to_watch`)**.
+- **Trang Kênh đăng ký mới, Nút Đăng ký & Thu gọn thanh bên `68px` cân đối:** Bổ sung mục **Đăng ký** trên thanh điều hướng trái (thu gọn từ `82px` xuống `68px` thanh thoát, hiển thị trọn vẹn nhãn không bị cắt `...`), dải Avatar lọc nhanh từng kênh và nút **Đăng ký / Đã đăng ký ✓** trên trang xem video & trang kênh.
+
+### 🇬🇧 English
+- **Authenticated Google / YouTube Account Cloud Sync (`SAPISIDHASH`):** Signing in automatically syncs your real YouTube profile name/avatar, Subscribed Channels, cross-device Watch History (with resume progress!), Liked Videos, and personalized YouTube Home feed (`FEwhat_to_watch`).
+- **Dedicated Subscriptions Feed & Subscribe Controls:** Added a `Subscriptions` tab in the left navigation rail with a channel avatar filter strip, plus instant Subscribe/Unsubscribe buttons on Watch and Channel pages.
+
+---
+
 ## [v1.3.5] — 2026-11-26
 
 ### 🇻🇳 Tiếng Việt
