@@ -1,0 +1,22 @@
+RUSTTUBE PROPRIETARY PERSONAL-USE SOFTWARE LICENSE
+Copyright (c) 2026 TamDeRoss (https://github.com/nhattamlb)
+Co-engineered with Antigravity AI (Google DeepMind)
+All Rights Reserved.
+
+1. GRANT OF PERSONAL LICENSE
+Subject to the terms of this Agreement and TERMS.md, TamDeRoss ("Author") grants you a revocable, non-exclusive, non-transferable, royalty-free license to download, install, and use the pre-compiled RustTube binary software ("Software") solely for personal, non-commercial purposes on compatible Windows 11 (64-bit) devices.
+
+2. CLOSED-SOURCE & RESTRICTIONS
+RustTube is distributed as closed-source proprietary freeware. You may NOT:
+(a) Reverse engineer, decompile, disassemble, or attempt to derive the source code of the Software;
+(b) Modify, rebrand, repackage, or redistribute modified copies of the Software;
+(c) Sell, rent, lease, sublicense, or commercially exploit the Software without prior written consent from TamDeRoss.
+
+3. THIRD-PARTY OPEN-SOURCE COMPONENTS
+RustTube interfaces with or bundles independent open-source tools and runtime libraries (including Rust standard libraries, Tauri, React, yt-dlp, and FFmpeg), each of which remains governed by its respective open-source license.
+
+4. NO AFFILIATION
+RustTube is an independent third-party desktop client and is NOT affiliated with, endorsed by, sponsored by, or officially connected to Google LLC, YouTube, or any of their subsidiaries.
+
+5. DISCLAIMER OF WARRANTY ("AS-IS")
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR OR CO-DEVELOPERS BE LIABLE FOR ANY CLAIM, DAMAGES, ACCOUNT RESTRICTIONS, OR OTHER LIABILITY ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OF THE SOFTWARE.
